@@ -1,0 +1,9 @@
+{
+  "usuario": {
+    "nome": "Lucas",
+    "id": 123,
+    "ativo": true,
+    "cursos": ["JavaScript", "React"]
+  },
+  "ultimoAcesso": "2025-08-24"
+}
